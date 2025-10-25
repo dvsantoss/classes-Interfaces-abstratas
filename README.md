@@ -1,4 +1,4 @@
-# Projeto Abstract
+# Projeto Classes e Interfaces Abstratas
 
 Este projeto demonstra conceitos fundamentais de Programação Orientada a Objetos em Java, incluindo classes abstratas, interfaces, herança, polimorfismo e sobrecarga de métodos.
 
